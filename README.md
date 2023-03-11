@@ -1,6 +1,8 @@
 # 2LMotifVisNet
 Author: Jiating Zhu
+
 Email: jtszhu@bu.edu
+
 Date: March 11, 2023
 ## How to start:
 - Run the notebooks in the Simulation folder.
