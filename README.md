@@ -11,6 +11,7 @@ Last update: March 11, 2023
 - The two-layer network model is in the VPSModeling folder.
 
 
+## A Word about Citing
 We would be grateful if scientific publications resulting from projects that make use of 2LMotifVisNet would include the following sentence in the acknowledgments section:
 
 “This work was conducted using the 2LMotifVisNet resource, which is supported by National Institute of Mental Health, Grant/Award Number: R01MH118500.”
