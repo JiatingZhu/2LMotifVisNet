@@ -12,6 +12,6 @@ Last update: March 11, 2023
 
 
 ## A Word about Citing
-We would be grateful if scientific publications resulting from projects that make use of 2LMotifVisNet would include the following sentence in the acknowledgments section:
+We would be grateful if scientific publications resulting from projects that make use of 2LMotifVisNet would cite this article:
 
-“This work was conducted using the 2LMotifVisNet resource, which is supported by National Institute of Mental Health, Grant/Award Number: R01MH118500.”
+Zhu, J., Zikopoulos, B., & Yazdanbakhsh, A. (2023). A neural model of modified excitation/inhibition and feedback levels in schizophrenia. In Frontiers in Psychiatry (Vol. 14). Frontiers Media SA. https://doi.org/10.3389/fpsyt.2023.1199690
